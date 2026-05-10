@@ -1,0 +1,18 @@
+# Package Managers
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lock
+bun.lockb
+
+# Miscellaneous
+/static/
+
+#Generated code
+src/convex/_generated/
+
+# AI tools
+.opencode/
+.agents/
+.claude/
+.factory/
