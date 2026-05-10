@@ -2,6 +2,9 @@
 
 A modern TODO application built with SvelteKit 5 and Convex.
 
+<img width="984" height="637" alt="image" src="https://github.com/user-attachments/assets/a66931e2-1492-448b-bc8c-32e1ee0080d4" />
+
+
 ## Features
 
 - Create, read, update, and delete todos
